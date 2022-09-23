@@ -131,3 +131,13 @@ hr {
 .footer .icon {
     font-size: 30px;
 }
+
+.bg-gray {
+    background-color: var(--off-white);
+    padding-bottom: 1rem;
+}
+
+.bg-pink {
+    background-color: var(--light-primary);
+    padding-bottom: 1rem;
+}
